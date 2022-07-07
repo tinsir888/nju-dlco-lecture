@@ -4,4 +4,11 @@ My solutions for [DLCO(Digital Logic and Computer Organization) lecture](https:/
 
 DLCO is the bridging course for Project YSYX.
 
-Each lab eventually runs on NVBoard(another sub-project of NJU-ProjectN), a vitual FPGA.
+Each lab eventually runs on NVBoard(another sub-project of NJU-ProjectN), a virtual FPGA.
+
+## Environment
+
+- Linux
+- NVBoard
+- Verilator
+- sdl...
