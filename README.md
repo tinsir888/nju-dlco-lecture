@@ -1,6 +1,6 @@
-# nju-dlco-lecture
+# NJU-DLCO-lecture
 
-My solutions for [DLCO(Digital Logic and Computer Organization) lecture](https://nju-projectn.github.io/dlco-lecture-note/) assignments of NJU-ProjectN.
+My solutions for [DLCO(Digital Logic and Computer Organization) lecture](https://nju-projectn.github.io/dlco-lecture-note/) labs of NJU-ProjectN.
 
 DLCO is the bridging course for Project YSYX.
 
@@ -12,3 +12,9 @@ Each lab eventually runs on NVBoard(another sub-project of NJU-ProjectN), a virt
 - NVBoard
 - Verilator
 - sdl...
+
+## How to Run
+
+In each subfolder
+- `make sim` to generate executable file on NVBoard
+- `./build/($EXE_FILENAME)` to run the file on NVBoard.
