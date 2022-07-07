@@ -1,0 +1,7 @@
+top=mux
+
+a (SW0, SW1, SW2, SW3)
+
+s (SW4, SW5)
+
+y LD0
