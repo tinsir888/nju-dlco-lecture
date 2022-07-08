@@ -1,0 +1,11 @@
+top=mux
+
+a (SW7, SW6, SW5, SW4, SW3, SW2, SW1, SW0)
+
+en SW8
+
+state LD4
+
+b (LD2, LD1, LD0)
+
+dig (SEG0G, SEG0F, SEG0E, SEG0D, SEG0C, SEG0B, SEG0A)
