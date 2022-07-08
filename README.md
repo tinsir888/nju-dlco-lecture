@@ -2,6 +2,8 @@
 
 My solutions for [DLCO(Digital Logic and Computer Organization) lecture](https://nju-projectn.github.io/dlco-lecture-note/) labs of NJU-ProjectN.
 
+**Due to plan in YSYX, there's no need to finish lab 4, 5, 10, 11, 12.**
+
 DLCO is the bridging course for Project YSYX.
 
 Each lab eventually runs on NVBoard(another sub-project of NJU-ProjectN), a virtual FPGA.
