@@ -1,0 +1,13 @@
+top=alu
+
+a (SW3, SW2, SW1, SW0)
+
+b (SW7, SW6, SW5, SW4)
+
+ctrl (SW10, SW9, SW8)
+
+res (LD3, LD2, LD1, LD0)
+
+car LD4
+
+of LD5
